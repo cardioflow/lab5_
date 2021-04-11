@@ -1,0 +1,4 @@
+﻿  deque.cpp
+C:\Users\кот\Desktop\gith\lab5_\lab5_\deque.cpp(42): warning C4715: Deque::operator=: значение возвращается не при всех путях выполнения
+C:\Users\кот\Desktop\gith\lab5_\lab5_\deque.cpp(53): warning C4715: Deque::operator=: значение возвращается не при всех путях выполнения
+  lab5_.vcxproj -> C:\Users\кот\Desktop\gith\lab5_\Debug\lab5_.exe
